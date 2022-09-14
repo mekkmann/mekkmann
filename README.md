@@ -2,21 +2,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Pontus Alexander Liljekvist a.k.a. Mekkmann and I'm a **Full Stack Developer**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently employed as a consultant by [SALT](https://www.salt.study/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently employed as a consultant by [&lt;/SALT&gt;](https://www.salt.study/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take a look at my [Portfolio](https://pontusliljekvistportfolio.herokuapp.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at my [Portfolio](https://pontusliljekvistportfolio.herokuapp.com/)
 
 ## Projects
 ### Personal 
 | Name                                                         | Status  | Languages                 |
 |--------------------------------------------------------------|---------|---------------------------|
 | [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   🛠️   | JavaScript                |
-| OnlineDiaryApp                                               |   🛠️   | C# (C Sharp) & JavaScript |
+| OnlineDiaryApp                                               |   🛠️   | C# & JavaScript |
 
 ### Collaborations 
 | Name                                                         | Status  | Languages                 |
 |--------------------------------------------------------------|---------|---------------------------|
-| [Fabryca](https://github.com/VladDrag/Fabryca)               |   🛠️   | C# (C Sharp) & JavaScript |
+| [Fabryca](https://github.com/VladDrag/Fabryca)               |   🛠️   | C# & JavaScript |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I’m looking to collaborate on anything GameDev-related** 💞️ 
 
