@@ -11,7 +11,7 @@
 | Name                                                         | Status  | Languages                 |
 |--------------------------------------------------------------|---------|---------------------------|
 | [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   🛠️   | JavaScript                |
-| Tic-Tac-Toe (Unity)                                          |   🛠️   | C#                        |
+| [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)                                          |   🛠️   | C#                        |
 | [Swedish Motivational Quote API](https://github.com/mekkmann/SwedishMotivationalQuotesMinimalRestApi)                             |   🛠️   | C#                        |
 | OnlineDiaryApp ([Frontend](https://github.com/mekkmann/OnlineDiaryFrontend), [Backend](https://github.com/mekkmann/OnlineDiary)   )                                            |   🛠️   | C# & JavaScript           |
 
