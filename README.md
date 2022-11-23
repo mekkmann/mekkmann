@@ -6,23 +6,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at my [Portfolio](https://pontusliljekvistportfolio.herokuapp.com/)
 
-## Projects
-### Personal 
+## Coding Challenges
 
-### Try my [game](https://github.com/mekkmann/Unity-Tic-Tac-Toe)
+| Name                                                         | Status  | Languages                 | Category |
+|--------------------------------------------------------------|---------|---------------------------|--------|
+| [React, place/undo/redo circle](https://github.com/mekkmann/react-interview-place-circle-on-click) |   ✅   | TypeScript | React               |
+
+
+## Projects
+
+### Try my [game](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (tic-tac-toe)
 
 
 | Name                                                         | Status  | Languages                 |
 |--------------------------------------------------------------|---------|---------------------------|
 | [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   🛠️   | JavaScript                |
-| [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)                                          |   🛠️   | C#                        |
-| [Swedish Motivational Quote API](https://github.com/mekkmann/SwedishMotivationalQuotesMinimalRestApi)                             |   🛠️   | C#                        |
-| OnlineDiaryApp ([Frontend](https://github.com/mekkmann/OnlineDiaryFrontend), [Backend](https://github.com/mekkmann/OnlineDiary)   )                                            |   🛠️   | C# & JavaScript           |
+| [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)  |   ✅   | C#               |
+| [Swedish Motivational Quote API](https://github.com/mekkmann/SwedishMotivationalQuotesMinimalRestApi)|   🛠️   | C# |
+| OnlineDiaryApp ([Frontend](https://github.com/mekkmann/OnlineDiaryFrontend), [Backend](https://github.com/mekkmann/OnlineDiary)   )  |   🛠️   | C# & JavaScript |
 
-### Collaborations 
-| Name                                                         | Status  | Languages                 |
-|--------------------------------------------------------------|---------|---------------------------|
-| [Fabryca](https://github.com/VladDrag/Fabryca)               |   🛠️   | C# & JavaScript |
+<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I’m looking to collaborate on anything GameDev-related** 💞️ 
 
