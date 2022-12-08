@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently employed as a consultant by [&lt;/SALT&gt;](https://www.salt.study/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at my [Portfolio](https://pontusliljekvistportfolio.herokuapp.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at my [Portfolio](https://pontusliljekvist.netlify.app/)
 
 ## Coding Challenges
 
@@ -22,8 +22,6 @@
 |--------------------------------------------------------------|---------|---------------------------|
 | [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   🛠️   | JavaScript                |
 | [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)  |   ✅   | C#               |
-| [Swedish Motivational Quote API](https://github.com/mekkmann/SwedishMotivationalQuotesMinimalRestApi)|   🛠️   | C# |
-| OnlineDiaryApp ([Frontend](https://github.com/mekkmann/OnlineDiaryFrontend), [Backend](https://github.com/mekkmann/OnlineDiary)   )  |   🛠️   | C# & JavaScript |
 
 <br/>
 
