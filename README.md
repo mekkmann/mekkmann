@@ -22,6 +22,7 @@
 |--------------------------------------------------------------|---------|---------------------------|
 | [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   🛠️   | JavaScript                |
 | [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)  |   ✅   | C#               |
+| [Kanye Quotes](https://github.com/mekkmann/Python-Kanye-Quotes)|   ✅   | Python               |
 
 <br/>
 
