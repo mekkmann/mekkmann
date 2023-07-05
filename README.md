@@ -15,16 +15,17 @@
 
 ## Projects
 
-### Try my [game](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (tic-tac-toe)
 
 
 | Name                                                         | Status  | Languages                 |
 |--------------------------------------------------------------|---------|---------------------------|
-| [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   🛠️   | JavaScript                |
+| [Lilac Breeze Cleaning](https://github.com/mekkmann/Lilac-Breeze-Cleaning) |   🛠️   | C#, JavaScript                |
+| [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   ✅   | JavaScript                |
 | [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)  |   ✅   | C#               |
 | [Kanye Quotes](https://github.com/mekkmann/Python-Kanye-Quotes)|   ✅   | Python               |
 
 <br/>
+### Try my [game](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (tic-tac-toe)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I’m looking to collaborate on anything GameDev-related** 💞️ 
 
