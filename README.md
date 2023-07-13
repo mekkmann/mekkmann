@@ -25,7 +25,8 @@
 | [Kanye Quotes](https://github.com/mekkmann/Python-Kanye-Quotes)|   ✅   | Python               |
 
 <br/>
-### Try my [game](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (tic-tac-toe)
+
+### Try my [game](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Tic-Tac-Toe)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I’m looking to collaborate on anything GameDev-related** 💞️ 
 
