@@ -17,6 +17,7 @@
 
 | Name                                                         | Status  | Languages                 | Category |
 |--------------------------------------------------------------|---------|---------------------------| -------- |
+| [ZuliAir](https://github.com/mekkmann/flutter-ryr-departures-arn/) |   ✅   | Dart                | Mobile |
 | [Lilac Breeze Cleaning](https://github.com/mekkmann/Lilac-Breeze-Cleaning) |   🛠️   | C#, JavaScript                | FullStack |
 | [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   ✅   | JavaScript                | Frontend |
 | [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)  |   ✅   | C#               | Game |
