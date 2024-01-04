@@ -4,7 +4,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently looking for my next opportunity!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at my [Portfolio](https://pontusliljekvist.netlify.app/)
 
 ## Coding Challenges
 
@@ -17,8 +16,8 @@
 
 | Name                                                         | Status  | Languages                 | Category |
 |--------------------------------------------------------------|---------|---------------------------| -------- |
+| [AprendeYa](https://github.com/mekkmann/AprendeYa) |   🛠️   | C#, JS               | FullStack |
 | [ZuliAir](https://github.com/mekkmann/flutter-ryr-departures-arn/) |   ✅   | Dart                | Mobile |
-| [Lilac Breeze Cleaning](https://github.com/mekkmann/Lilac-Breeze-Cleaning) |   🛠️   | C#, JavaScript                | FullStack |
 | [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   ✅   | JavaScript                | Frontend |
 | [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)  |   ✅   | C#               | Game |
 | [Kanye Quotes](https://github.com/mekkmann/Python-Kanye-Quotes)|   ✅   | Python               | App |
