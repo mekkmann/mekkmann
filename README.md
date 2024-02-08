@@ -19,11 +19,9 @@
 | [AprendeYa](https://github.com/mekkmann/AprendeYa) |   🛠️   | C#, JS               | FullStack |
 | [ZuliAir](https://github.com/mekkmann/flutter-ryr-departures-arn/) |   ✅   | Dart                | Mobile |
 | [Portfolio Page](https://github.com/mekkmann/Portfolio-Page) |   ✅   | JavaScript                | Frontend |
-| [Tic-Tac-Toe](https://github.com/mekkmann/Unity-Tic-Tac-Toe) (Unity)  |   ✅   | C#               | Game |
 | [Kanye Quotes](https://github.com/mekkmann/Python-Kanye-Quotes)|   ✅   | Python               | App |
 
 <br/>
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I’m looking to collaborate on anything GameDev-related** 💞️ 
 
