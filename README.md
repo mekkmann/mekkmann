@@ -9,6 +9,8 @@
 |--------------------------------------------------------------|-|--------|---------------------------|--------|
 | [Cow-Mania](https://github.com/mekkmann/) | [itch.io](https://mekkmann.itch.io/cow-mania) | ✅   | C# | Games               |
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I’m looking to collaborate on anything GameDev-related** 💞️ 
+
 ## Coding Challenges
 
 | Name                                                         | Status  | Languages                 | Category |
@@ -27,7 +29,6 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I’m looking to collaborate on anything GameDev-related** 💞️ 
 
 ## Get in touch
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/othermekkmann) [LinkedIn](https://www.linkedin.com/in/pontus-liljekvist-b7224517a/)
