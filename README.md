@@ -7,6 +7,7 @@
 
 | Name & Repo | Live                                                       | Status  | Languages                 | Category |
 |--------------------------------------------------------------|-|--------|---------------------------|--------|
+| [Space-Mania](https://github.com/mekkmann/Space-Mania) | coming soon | 🛠️   | C# | Games               |
 | [Cow-Mania](https://github.com/mekkmann/) | [itch.io](https://mekkmann.itch.io/cow-mania) | ✅   | C# | Games               |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I’m looking to collaborate on anything GameDev-related** 💞️ 
