@@ -24,7 +24,7 @@
 
 
 ## Get in touch
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/othermekkmann) [LinkedIn](https://www.linkedin.com/in/pontus-liljekvist-b7224517a/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](alex.p.liljekvist@gmail.com) [Twitter](https://twitter.com/othermekkmann) [LinkedIn](https://www.linkedin.com/in/pontus-liljekvist-b7224517a/) [Bluesky](https://bsky.app/profile/mekkmann.bsky.social)
 
 <!---
 mekkmann/mekkmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
